@@ -1,31 +1,54 @@
 {
-"posts": [
-{
-"id": 1,
-"title": "Post 1"
-},
-{
-"id": 2,
-"title": "Post 2"
-},
-{
-"id": 3,
-"title": "Post 3"
-}
-],
-"comments": [
-{
-"id": 1,
-"body": "some comment",
-"postId": 1
-},
-{
-"id": 2,
-"body": "some comment",
-"postId": 1
-}
-],
-"profile": {
-"name": "typicode"
-}
+  "berita": [
+    {
+      "id": 1,
+      "cover":"https://www.suarantb.com/wp-content/uploads/2021/07/foto-her-ketua-AKAD-Lobar-Sahril.jpg",
+      "title":"AKAD Lobar Tolak Pemangkasan ADD",
+      "link":"https://www.suarantb.com/2021/07/05/akad-lobar-tolak-pemangkasan-add/",
+      "date": 1665780039000
+    },
+    {
+      "id": 2,
+      "cover":"https://radarlombok.co.id/wp-content/uploads/2022/06/1655869472343.jpg",
+      "AKAD Lobar Ingatkan Gubernur Jangan Suka 'PHP",
+      "link":"https://radarlombok.co.id/akad-lobar-ingatkan-gubernur-jangan-suka-php.html",
+      "date": 1665780039000
+    },
+    {
+      "id": 3,
+      "cover":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQEyI0R9YlPkUhDXfyV4VGhKKxLJ_Ye3BOmKVgyBuoYuGW7uIE7SD8RB8Uv_0mGh2Ruyqalsm3akRxGCsAjWTGIxZNDGBQAs5jhaH5ybV2_Dn1O6iWB8kP5mHmDPVWHRHu--tz_2svjzF-2tdqOGszKUPtEVOCXDuGMMoQQIAP7OU_t7bniF0IZFo/s16000/20221006_114037.png",
+      "title":"Diduga Tak Serius, Ketua DPD PAPDESI NTB Anggap Event Ironman 70.3 di Lombok Ajang Bisnis",
+      "link":"https://www.dtulis.com/2022/10/diduga-tak-serius-ketua-dpd-papdesi-ntb.html?m=1&fbclid=IwAR2Sj-7TSH8keT3w3J5wjtWE0dvmJftDWknnLa_jJR_26jJvRoGroyw_vY0",
+      "date": 1665780039000
+    },
+    {
+      "id": 4,
+      "cover":"https://blogger.googleusercontent.com/img/a/AVvXsEhwUMv45DaYF8kdxKzVIQowJLnkZgWtxWujP4p61pl52MMpW39M8bXuEpsOaNP0-5AUfs1RItPsmRz97DC-ZSSgVjQ9etou_iN72GzMz7i8xdYhwxNDPCsrFOwAJqvSQTAK0LXi-0GD4DZQYC1DYIGeGY2RwFVZghJjG1iX7lOqwUK4Y4d_T6ffInpa=w640-h426",
+      "title":"Menuju Digitalisasi AKAD Lombok Barat",
+      "link":"https://www.kimsekotong.com/2021/11/menuju-digitalisasi-akad-lombok-barat.html",
+      "date": 1665780039000
+    },
+    {
+      "id": 5,
+      "cover":"https://gerbangindonesia.co.id/wp-content/uploads/2021/04/412ca5ea-456b-45d9-a807-d85cc9f4a854-1536x812.jpg",
+      "title":"Ketum AKAD Siap Berkolaborasi Membangun Desa dan Daerah",
+      "link":"https://gerbangindonesia.co.id/2021/04/26/ketum-akad-siap-berkolaborasi-membangun-desa-dan-daerah/",
+      "date": 1665780039000
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
