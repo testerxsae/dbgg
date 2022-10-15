@@ -36,16 +36,42 @@
       "date": 1665780039000
     }
   ],
-  "comments": [
+  "videos": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "title": "Launching penyaluran JPS Gemilang NTB tahap ke 2 dilakukan di Kantor Desa Jeringo Tahun 2020",
+      "thumbnail": "https://img.youtube.com/vi/YMkIeHipVQI/1.jpg",
+      "link": "https://www.youtube.com/watch?v=YMkIeHipVQI"
     },
     {
       "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "title": "KADES JERINGO BANGUN SINERGITAS DALAM LANGKAH PROMOTIF & PREVENTIF MENYIKAPI VIRUS CORONA (COVID-19)",
+      "thumbnail": "https://img.youtube.com/vi/_i9-0Q_xEvI/1.jpg",
+      "link": "https://www.youtube.com/watch?v=_i9-0Q_xEvI"
+    },
+    {
+      "id": 3,
+      "title": "KETUM FKKD NTB MURKA, COPOT MENTERI DESA DIANGGAP TIDAK BECUS DAN MENYESATKAN",
+      "thumbnail": "https://img.youtube.com/vi/N8Dx7_AF7MA/1.jpg",
+      "link": "https://www.youtube.com/watch?v=N8Dx7_AF7MA"
+    },
+    {
+      "id": 4,
+      "title": "LAGU MARS AKAD LOMBOK BARAT",
+      "thumbnail": "https://img.youtube.com/vi/CjMeqH1kCYc/1.jpg",
+      "link": "https://www.youtube.com/watch?v=CjMeqH1kCYc"
+    },
+    {
+      "id": 5,
+      "title": "WOOW..!!! Kades Jeringo | Ge-Lite Super Mineral - Korea Solusi Alternatif Petani NTB",
+      "thumbnail": "https://img.youtube.com/vi/VnV4BNjlWRs/1.jpg",
+      "link": "https://www.youtube.com/watch?v=VnV4BNjlWRs"
+    },
+    {
+      "id": 6,
+      "title": "KETUM FKKD NTB MENOLAK SECARA TEGAS PERPRES 104 TAHUN 2021",
+      "thumbnail": "https://img.youtube.com/vi/siBzHp9UGgY/1.jpg",
+      "link": "https://www.youtube.com/watch?v=siBzHp9UGgY"
     }
   ],
   "profile": {
