@@ -52,7 +52,27 @@
       "date": 1665541539000
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "homebanner": [
+    {
+      "id": 1,
+      "title": "bh1",
+      "image": "https://raw.githubusercontent.com/testerxsae/testdb/main/bh1.jpg",
+      "category": "home",
+      "url": ""
+     },
+     {
+       "id": 2,
+      "title": "bh2",
+      "image": "https://raw.githubusercontent.com/testerxsae/testdb/main/bh2.png",
+      "category": "home",
+      "url": ""
+     },
+     {
+       "id": 3,
+      "title": "bh3",
+      "image": "https://raw.githubusercontent.com/testerxsae/testdb/main/bh3.png",
+      "category": "home",
+      "url": ""
+     }
+  ]
 }
