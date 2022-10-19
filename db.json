@@ -1,45 +1,11 @@
 {
   "berita": [
+    
     {
-      "id": 4,
-      "cover": "https://blogger.googleusercontent.com/img/a/AVvXsEhwUMv45DaYF8kdxKzVIQowJLnkZgWtxWujP4p61pl52MMpW39M8bXuEpsOaNP0-5AUfs1RItPsmRz97DC-ZSSgVjQ9etou_iN72GzMz7i8xdYhwxNDPCsrFOwAJqvSQTAK0LXi-0GD4DZQYC1DYIGeGY2RwFVZghJjG1iX7lOqwUK4Y4d_T6ffInpa=w640-h426",
-      "title": "Menuju Digitalisasi AKAD Lombok Barat",
-      "link": "https://www.kimsekotong.com/2021/11/menuju-digitalisasi-akad-lombok-barat.html",
-      "date": 1665541539000
-    },
-    {
-      "id": 5,
-      "cover": "https://gerbangindonesia.co.id/wp-content/uploads/2021/04/412ca5ea-456b-45d9-a807-d85cc9f4a854-1536x812.jpg",
-      "title": "Ketum AKAD Siap Berkolaborasi Membangun Desa dan Daerah",
-      "link": "https://gerbangindonesia.co.id/2021/04/26/ketum-akad-siap-berkolaborasi-membangun-desa-dan-daerah/",
-      "date": 1665541539000
-    },
-    {
-      "id": 6,
-      "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZbgBGGht3ELZ_cgDMWdy0XCk4zGMsUxLP_ph_34QDXAw94yCq3IeZ2xBWzTNjishSkIbd9fODtNVlKEmy24clXoUQ_2w7mk1auC3Q_aER64XYnUHGUY0488SEv1gx9W4WGO4zezQoPUm8UrveKBNAkp6xLVYpeDpzNQYBahoneHsWxuyTHrw5Gdab/s320/IMG_20221018_105141.jpg",
-      "title": "Pertama di Indonesia AKAD Lobar Launching Program Kerja Desa Digital dan E-Commerce Akad Lobar",
-      "link": "https://www.labulianews.com/2022/10/pertama-di-indonesia-akad-lobar.html",
-      "date": 1666160818000
-    },
-    {
-      "id": 7,
-      "cover": "https://www.suarantb.com/wp-content/uploads/2022/10/IMG-20221019-WA0024.jpg",
-      "title": "Bantu Warga Pasarkan Produk, Akad Lobar Luncurkan Aplikasi ‘’E-Commerce’’",
-      "link": "https://www.suarantb.com/2022/10/19/bantu-warga-pasarkan-produk-akad-lobar-luncurkan-aplikasi-e-commerce/",
-      "date": 1666160818000
-    },
-    {
-      "id": 8,
-      "cover": "https://radarlombok.co.id/wp-content/uploads/2022/10/IMG-20221019-WA0001.jpg",
-      "title": "Program Akad Lobar untuk Desa Digital dapat Apresiasi Positif",
-      "link": "https://radarlombok.co.id/program-akad-lobar-untuk-desa-digital-dapat-apresiasi-positif.html#.Y09xSKEkZt8.whatsapp",
-      "date": 1666160818000
-    },
-    {
-      "id": 9,
-      "cover": "https://getnewsindonesia.com/wp-content/uploads/2022/10/IMG-20221018-WA0010-780x470.jpg",
-      "title": "Mudahkan Pelayanan AKAD Lobar Launching Aplikasi E-comerce dan Desa Digital Lombok Barat",
-      "link": "https://getnewsindonesia.com/2022/10/18/mudahkan-pelayanan-akad-lobar-launching-aplikasi-e-comerce-dan-desa-digital-lombok-barat/",
+      "id": 11,
+      "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAXNMVX60dcFzwzvezdXPyVVlgTPem3WqyoHxrgzKLBuL6585mtorMZPZwUcSA2IxSiQII1h4vUSaF8uI05FKlZz3_u9UChMxUnJrmG5YuUOFOYBcfBLAXTh_JefoeJFhW4o2xat5-KSDRk6iJIWSyqu3QQVYOtrq6YuzK_PPF-JoeTQyt5mfy_fdIJA/w640-h360/AKAD%20Lobar.jpg",
+      "title": "HUT Ke 1, AKAD LOBAR Launching Aplikasi E- Commerce dan Desa Digital AKAD",
+      "link": "https://www.suaralombok.co.id/2022/10/hut-ke-1-akad-lobar-launching-aplikasi.html",
       "date": 1666160818000
     },
     {
@@ -50,33 +16,61 @@
       "date": 1666160818000
     },
     {
-      "id": 11,
-      "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAXNMVX60dcFzwzvezdXPyVVlgTPem3WqyoHxrgzKLBuL6585mtorMZPZwUcSA2IxSiQII1h4vUSaF8uI05FKlZz3_u9UChMxUnJrmG5YuUOFOYBcfBLAXTh_JefoeJFhW4o2xat5-KSDRk6iJIWSyqu3QQVYOtrq6YuzK_PPF-JoeTQyt5mfy_fdIJA/w640-h360/AKAD%20Lobar.jpg",
-      "title": "HUT Ke 1, AKAD LOBAR Launching Aplikasi E- Commerce dan Desa Digital AKAD",
-      "link": "https://www.suaralombok.co.id/2022/10/hut-ke-1-akad-lobar-launching-aplikasi.html",
+      "id": 9,
+      "cover": "https://getnewsindonesia.com/wp-content/uploads/2022/10/IMG-20221018-WA0010-780x470.jpg",
+      "title": "Mudahkan Pelayanan AKAD Lobar Launching Aplikasi E-comerce dan Desa Digital Lombok Barat",
+      "link": "https://getnewsindonesia.com/2022/10/18/mudahkan-pelayanan-akad-lobar-launching-aplikasi-e-comerce-dan-desa-digital-lombok-barat/",
       "date": 1666160818000
-    }
-  ],
-  "videos": [
-    {
-      "id": 1,
-      "title": "Launching penyaluran JPS Gemilang NTB tahap ke 2 dilakukan di Kantor Desa Jeringo Tahun 2020",
-      "thumbnail": "https://img.youtube.com/vi/YMkIeHipVQI/1.jpg",
-      "link": "https://www.youtube.com/watch?v=YMkIeHipVQI",
-      "date": 1665541539000
     },
     {
-      "id": 2,
-      "title": "KADES JERINGO BANGUN SINERGITAS DALAM LANGKAH PROMOTIF & PREVENTIF MENYIKAPI VIRUS CORONA (COVID-19)",
-      "thumbnail": "https://img.youtube.com/vi/_i9-0Q_xEvI/1.jpg",
-      "link": "https://www.youtube.com/watch?v=_i9-0Q_xEvI",
+      "id": 8,
+      "cover": "https://radarlombok.co.id/wp-content/uploads/2022/10/IMG-20221019-WA0001.jpg",
+      "title": "Program Akad Lobar untuk Desa Digital dapat Apresiasi Positif",
+      "link": "https://radarlombok.co.id/program-akad-lobar-untuk-desa-digital-dapat-apresiasi-positif.html#.Y09xSKEkZt8.whatsapp",
+      "date": 1666160818000
+    },
+    {
+      "id": 7,
+      "cover": "https://www.suarantb.com/wp-content/uploads/2022/10/IMG-20221019-WA0024.jpg",
+      "title": "Bantu Warga Pasarkan Produk, Akad Lobar Luncurkan Aplikasi ‘’E-Commerce’’",
+      "link": "https://www.suarantb.com/2022/10/19/bantu-warga-pasarkan-produk-akad-lobar-luncurkan-aplikasi-e-commerce/",
+      "date": 1666160818000
+    },
+    {
+      "id": 6,
+      "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZbgBGGht3ELZ_cgDMWdy0XCk4zGMsUxLP_ph_34QDXAw94yCq3IeZ2xBWzTNjishSkIbd9fODtNVlKEmy24clXoUQ_2w7mk1auC3Q_aER64XYnUHGUY0488SEv1gx9W4WGO4zezQoPUm8UrveKBNAkp6xLVYpeDpzNQYBahoneHsWxuyTHrw5Gdab/s320/IMG_20221018_105141.jpg",
+      "title": "Pertama di Indonesia AKAD Lobar Launching Program Kerja Desa Digital dan E-Commerce Akad Lobar",
+      "link": "https://www.labulianews.com/2022/10/pertama-di-indonesia-akad-lobar.html",
+      "date": 1666160818000
+    },
+    {
+      "id": 5,
+      "cover": "https://gerbangindonesia.co.id/wp-content/uploads/2021/04/412ca5ea-456b-45d9-a807-d85cc9f4a854-1536x812.jpg",
+      "title": "Ketum AKAD Siap Berkolaborasi Membangun Desa dan Daerah",
+      "link": "https://gerbangindonesia.co.id/2021/04/26/ketum-akad-siap-berkolaborasi-membangun-desa-dan-daerah/",
       "date": 1665541539000
     },
     {
       "id": 4,
-      "title": "LAGU MARS AKAD LOMBOK BARAT",
-      "thumbnail": "https://img.youtube.com/vi/CjMeqH1kCYc/1.jpg",
-      "link": "https://www.youtube.com/watch?v=CjMeqH1kCYc",
+      "cover": "https://blogger.googleusercontent.com/img/a/AVvXsEhwUMv45DaYF8kdxKzVIQowJLnkZgWtxWujP4p61pl52MMpW39M8bXuEpsOaNP0-5AUfs1RItPsmRz97DC-ZSSgVjQ9etou_iN72GzMz7i8xdYhwxNDPCsrFOwAJqvSQTAK0LXi-0GD4DZQYC1DYIGeGY2RwFVZghJjG1iX7lOqwUK4Y4d_T6ffInpa=w640-h426",
+      "title": "Menuju Digitalisasi AKAD Lombok Barat",
+      "link": "https://www.kimsekotong.com/2021/11/menuju-digitalisasi-akad-lombok-barat.html",
+      "date": 1665541539000
+    },
+  ],
+  "videos": [
+    {
+      "id": 7,
+      "title": "AKAD LOMBOK BARAT MENUJU PERUBAHAN DALAM MEWUJUDKAN EKONOMI KREATIF DAN INOVATIF",
+      "thumbnail": "https://img.youtube.com/vi/siBzHp9UGgY/1.jpg",
+      "link": "https://www.youtube.com/watch?v=siBzHp9UGgY",
+      "date": 1666160818000
+    },
+    {
+      "id": 6,
+      "title": "KETUM FKKD NTB MENOLAK SECARA TEGAS PERPRES 104 TAHUN 2021",
+      "thumbnail": "https://img.youtube.com/vi/x7CKoXey7J4/1.jpg",
+      "link": "https://www.youtube.com/watch?v=x7CKoXey7J4",
       "date": 1665541539000
     },
     {
@@ -87,18 +81,25 @@
       "date": 1665541539000
     },
     {
-      "id": 6,
-      "title": "KETUM FKKD NTB MENOLAK SECARA TEGAS PERPRES 104 TAHUN 2021",
-      "thumbnail": "https://img.youtube.com/vi/x7CKoXey7J4/1.jpg",
-      "link": "https://www.youtube.com/watch?v=x7CKoXey7J4",
+      "id": 4,
+      "title": "LAGU MARS AKAD LOMBOK BARAT",
+      "thumbnail": "https://img.youtube.com/vi/CjMeqH1kCYc/1.jpg",
+      "link": "https://www.youtube.com/watch?v=CjMeqH1kCYc",
       "date": 1665541539000
     },
     {
-      "id": 7,
-      "title": "AKAD LOMBOK BARAT MENUJU PERUBAHAN DALAM MEWUJUDKAN EKONOMI KREATIF DAN INOVATIF",
-      "thumbnail": "https://img.youtube.com/vi/siBzHp9UGgY/1.jpg",
-      "link": "https://www.youtube.com/watch?v=siBzHp9UGgY",
-      "date": 1666160818000
+      "id": 2,
+      "title": "KADES JERINGO BANGUN SINERGITAS DALAM LANGKAH PROMOTIF & PREVENTIF MENYIKAPI VIRUS CORONA (COVID-19)",
+      "thumbnail": "https://img.youtube.com/vi/_i9-0Q_xEvI/1.jpg",
+      "link": "https://www.youtube.com/watch?v=_i9-0Q_xEvI",
+      "date": 1665541539000
+    },
+    {
+      "id": 1,
+      "title": "Launching penyaluran JPS Gemilang NTB tahap ke 2 dilakukan di Kantor Desa Jeringo Tahun 2020",
+      "thumbnail": "https://img.youtube.com/vi/YMkIeHipVQI/1.jpg",
+      "link": "https://www.youtube.com/watch?v=YMkIeHipVQI",
+      "date": 1665541539000
     }
   ],
   "homebanner": [
