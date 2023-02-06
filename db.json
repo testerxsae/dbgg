@@ -108,27 +108,41 @@
       "image": "https://raw.githubusercontent.com/testerxsae/dbgg/main/bh11.jpeg",
       "category": "home",
       "url": ""
-     },
-     {
-       "id": 2,
+    },
+    {
+      "id": 2,
       "title": "bh2",
       "image": "https://raw.githubusercontent.com/testerxsae/dbgg/main/bh22.jpeg",
       "category": "home",
       "url": ""
-     },
-     {
-       "id": 3,
+    },
+    {
+      "id": 3,
       "title": "bh3",
       "image": "https://raw.githubusercontent.com/testerxsae/dbgg/main/bh33.jpeg",
       "category": "home",
       "url": ""
-     },
+    },
     {
-       "id": 4,
+      "id": 4,
       "title": "bh4",
       "image": "https://raw.githubusercontent.com/testerxsae/dbgg/main/bh44.jpeg",
       "category": "home",
       "url": ""
-     }
+    },
+    {
+      "id": 5,
+      "title": "bh5",
+      "image": "https://raw.githubusercontent.com/testerxsae/dbgg/main/bh55.jpeg",
+      "category": "home",
+      "url": ""
+    },
+    {
+      "id": 6,
+      "title": "bh6",
+      "image": "https://raw.githubusercontent.com/testerxsae/dbgg/main/bh66.jpeg",
+      "category": "home",
+      "url": ""
+    }
   ]
 }
